@@ -1,0 +1,25 @@
+_repo: Nikkinen-nyrkkeilee-b-Sanomalehtineekerin-naperryksia_73628
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rissanen, Santeri
+    gutenberg_agent_id: '57154'
+    url: http://www.gutenberg.org/2009/agents/57154
+description: ''
+gutenberg_issued: '2024-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73628'
+language: fi
+pgterms:marc905: 20240512031746rissanen
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nikkinen nyrkkeilee : $b Sanomalehtineekerin näperryksiä'
+url: http://www.gutenberg.org/ebooks/73628
